@@ -13,4 +13,7 @@ templates/$template/css/font-styles.css
 
 Please feel free to add tweaks or suggestions ... this was developed as part of a client project, so there'll be a few custom things there you wish to tweak.
 
-Have fun with it ... it is a handy little utililty :)
+Have fun with it's a handy little utililty :)
+
+-
+based on code from http://www.deweso.com/index.php/154-making-better-use-of-bootstrap-with-the-jce-editor-css-download
