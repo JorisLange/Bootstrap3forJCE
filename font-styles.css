@@ -1,0 +1,20 @@
+@font-face {
+font-family: 'Cutive';
+font-style: normal;
+font-weight: 400;
+src: local('Cutive'), local('Cutive-Regular'), url(http://themes.googleusercontent.com/static/fonts/cutive/v5/7pMILQtbblPmQbuabt3G-g.woff) format('woff');
+} 
+
+@font-face {
+font-family: 'Allura';
+font-style: normal;
+font-weight: 400;
+src: local('Allura'), local('Allura-Regular'), url(http://themes.googleusercontent.com/static/fonts/allura/v2/ExiT4hKozv4E-LiOi2vvJA.woff) format('woff');
+} 
+
+h1, h4, .headline h4, .page-header a {
+    font-family: Allura,sans-serif;
+}
+#ps-nav > a, .headline, h2, h3, h5, h6 {
+  font-family: Cutive,sans-serif;
+}
